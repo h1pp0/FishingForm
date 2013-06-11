@@ -124,4 +124,12 @@
       <Bait>Crayfish Ball</Bait>
     </Baits>
   </Fish>
+  <Fish name="Break rod fish" wanted="No" ID1="140" ID2="40" ID3="9">
+    <Zones>
+      <Zone>Nashmau</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
 </Rod>

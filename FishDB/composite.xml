@@ -164,7 +164,7 @@
       <Bait>Slice of Bluetail</Bait>
     </Baits>
   </Fish>
-  <Fish name="Mob (Sea Monk)" wanted="Yes" ID1="300" ID2="19" ID3="9" ID4="13">
+  <Fish name="Mob (Sea Monk)" wanted="No" ID1="300" ID2="19" ID3="9" ID4="13">
     <Zones>
       <Zone>Ship bound for Selbina</Zone>
       <Zone>Ship bound for Selbina (Pirates)</Zone>
@@ -575,7 +575,7 @@
       <Bait>Crayfish Ball</Bait>
     </Baits>
   </Fish>
-  <Fish name="Silver Shark" wanted="Yes" ID1="180" ID2="35" ID3="3" ID4="21">
+  <Fish name="Silver Shark" wanted="No" ID1="180" ID2="35" ID3="3" ID4="21">
     <Zones>
       <Zone>Ship bound for Mhaura</Zone>
       <Zone>Ship bound for Mhaura (Pirates)</Zone>
@@ -663,6 +663,8 @@
     <Zones>
       <Zone>Western Altepa Desert</Zone>
       <Zone>La Theine Plateau</Zone>
+      <Zone>West Ronfaure</Zone>
+      <Zone>Port San d'Oria</Zone>
     </Zones>
     <Baits>
       <Bait>Minnow</Bait>
@@ -690,6 +692,7 @@
     </Zones>
     <Baits>
       <Bait>Worm Lure</Bait>
+      <Bait>Frog Lure</Bait>
     </Baits>
   </Fish>
   <Fish name="Emperor Fish" wanted="Yes" ID1="260" ID2="36" ID3="5">

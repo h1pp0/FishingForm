@@ -922,6 +922,7 @@
     <Baits>
       <Bait>Sinking Minnow</Bait>
       <Bait>Minnow</Bait>
+      <Bait>Sardine Ball</Bait>
     </Baits>
   </Fish>
   <Fish name="Mob (Greater Pugil)" wanted="No" ID1="300" ID2="16" ID3="15">
@@ -1021,6 +1022,22 @@
     </Zones>
     <Baits>
       <Bait>Fly Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Tiger Cod" wanted="No" ID1="200" ID2="23" ID3="11">
+    <Zones>
+      <Zone>Beaucedine Glacier</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sardine Ball</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Nosteau Herring" wanted="No" ID1="180" ID2="21" ID3="9">
+    <Zones>
+      <Zone>Beaucedine Glacier</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sardine Ball</Bait>
     </Baits>
   </Fish>
 </Rod>

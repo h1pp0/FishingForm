@@ -216,9 +216,11 @@
       <Zone>Ship bound for Mhaura</Zone>
       <Zone>Ship bound for Mhaura (Pirates)</Zone>
       <Zone>Qufim Island</Zone>
+      <Zone>Buburimu Peninsula</Zone>
     </Zones>
     <Baits>
       <Bait>Minnow</Bait>
+      <Bait>Robber Rig</Bait>
     </Baits>
   </Fish>
   <Fish name="Cobalt Jellyfish" wanted="No" ID1="20" ID2="28" ID3="15" ID4="19">
@@ -253,6 +255,7 @@
     <Baits>
       <Bait>Insect Ball</Bait>
       <Bait>Minnow</Bait>
+      <Bait>Little Worm</Bait>
     </Baits>
   </Fish>
   <Fish name="Elshimo Newt" wanted="Yes" ID1="200" ID2="26" ID3="7" ID4="18">
@@ -272,7 +275,7 @@
       <Bait>Minnow</Bait>
     </Baits>
   </Fish>
-  <Fish name="Gold Carp" wanted="No" ID1="300" ID2="18" ID3="12" ID4="12">
+  <Fish name="Gold Carp" wanted="Yes" ID1="300" ID2="18" ID3="12" ID4="12">
     <Zones>
       <Zone>Port San D'Oria</Zone>
       <Zone>Windurst Woods</Zone>
@@ -291,6 +294,7 @@
       <Zone>Port San D'Oria</Zone>
       <Zone>West Ronfaure</Zone>
       <Zone>Windurst Woods</Zone>
+      <Zone>Windurst Waters</Zone>
       <Zone>Bastok Markets</Zone>
       <Zone>Jugner Forest</Zone>
       <Zone>Port San d'Oria</Zone>
@@ -349,9 +353,10 @@
     <Baits>
       <Bait>Crayfish Ball</Bait>
       <Bait>Rogue Rig</Bait>
+      <Bait>Robber Rig</Bait>
     </Baits>
   </Fish>
-  <Fish name="Tricolored Carp" wanted="No" ID1="260" ID2="19" ID3="14" ID4="13">
+  <Fish name="Tricolored Carp" wanted="Yes" ID1="260" ID2="19" ID3="14" ID4="13">
     <Zones>
       <Zone>Port San D'Oria</Zone>
       <Zone>Bastok Markets</Zone>
@@ -392,6 +397,7 @@
       <Zone>Ship bound for Mhaura</Zone>
       <Zone>Ship bound for Selbina</Zone>
       <Zone>Port San d'Oria</Zone>
+      <Zone>West Ronfaure</Zone>
     </Zones>
     <Baits>
       <Bait>Frog Lure</Bait>
@@ -415,7 +421,7 @@
       <Bait>Minnow</Bait>
     </Baits>
   </Fish>
-  <Fish name="Black Sole" wanted="No" ID1="240" ID2="33" ID3="7">
+  <Fish name="Black Sole" wanted="Yes" ID1="240" ID2="33" ID3="7">
     <Zones>
       <Zone>Qufim Island</Zone>
       <Zone>Port Jeuno</Zone>
@@ -425,12 +431,13 @@
       <Bait>Shrimp Lure</Bait>
     </Baits>
   </Fish>
-  <Fish name="Cheval Salmon" wanted="No" ID1="160" ID2="21" ID3="9">
+  <Fish name="Cheval Salmon" wanted="Yes" ID1="160" ID2="21" ID3="9">
     <Zones>
       <Zone>East Ronfaure</Zone>
     </Zones>
     <Baits>
       <Bait>Sinking Minnow</Bait>
+      <Bait>Fly Lure</Bait>
     </Baits>
   </Fish>
   <Fish name="Shining Trout" wanted="Yes" ID1="240" ID2="16" ID3="7">
@@ -439,6 +446,7 @@
     </Zones>
     <Baits>
       <Bait>Sinking Minnow</Bait>
+      <Bait>Fly Lure</Bait>
     </Baits>
   </Fish>
   <Fish name="Bastore Bream" wanted="Yes" ID1="200" ID2="31" ID3="9">
@@ -467,13 +475,15 @@
       <Bait>Sabiki Rig</Bait>
     </Baits>
   </Fish>
-  <Fish name="Yellow Globe" wanted="Yes" ID1="180" ID2="17" ID3="10">
+  <Fish name="Yellow Globe" wanted="No" ID1="180" ID2="17" ID3="10">
     <Zones>
       <Zone>Port Jeuno</Zone>
       <Zone>Beaucedine Glacier</Zone>
+      <Zone>Buburimu Peninsula</Zone>
     </Zones>
     <Baits>
       <Bait>Sabiki Rig</Bait>
+      <Bait>Robber Rig</Bait>
     </Baits>
   </Fish>
   <Fish name="Icefish" wanted="No" ID1="200" ID2="38" ID3="5">
@@ -506,6 +516,104 @@
     </Zones>
     <Baits>
       <Bait>Peeled Lobster</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Sentinel Crab" wanted="No" ID1="300" ID2="19" ID3="14">
+    <Zones>
+      <Zone>Abyssea - La Theine</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Worm Lure</Bait>
+      <Bait>Sabiki Rig</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Sentinel Crab(2)" wanted="No" ID1="300" ID2="16" ID3="14">
+    <Zones>
+      <Zone>Abyssea - La Theine</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Worm Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Sentinel Crab(3)" wanted="No" ID1="300" ID2="22" ID3="14">
+    <Zones>
+      <Zone>Abyssea - La Theine</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Worm Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Nahn" wanted="Yes" ID1="300" ID2="26" ID3="7">
+    <Zones>
+      <Zone>Abyssea - La Theine</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Worm Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Sentinel Crab" wanted="No" ID1="300" ID2="19" ID3="8">
+    <Zones>
+      <Zone>Abyssea - La Theine</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sabiki Rig</Bait>
+      <Bait>Worm Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Sentinel Crab(4)" wanted="No" ID1="300" ID2="16" ID3="10">
+    <Zones>
+      <Zone>Abyssea - La Theine</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Worm Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Sentinel Crab(5)" wanted="No" ID1="300" ID2="15" ID3="11">
+    <Zones>
+      <Zone>Abyssea - La Theine</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Worm Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Sentinel Crab" wanted="No" ID1="300" ID2="17" ID3="9">
+    <Zones>
+      <Zone>Abyssea - La Theine</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Worm Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Crayfish" wanted="No" ID1="140" ID2="24" ID3="15">
+    <Zones>
+      <Zone>Jugner Forest</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Little Worm</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Red Terrapin" wanted="Yes" ID1="120" ID2="28" ID3="10">
+    <Zones>
+      <Zone>West Ronfaure</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Frog Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Tiger Cod" wanted="No" ID1="200" ID2="23" ID3="11">
+    <Zones>
+      <Zone>Port Jeuno</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Bastore Sweeper" wanted="Yes" ID1="60" ID2="17" ID3="6">
+    <Zones>
+      <Zone>Batallia Downs [S]</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sinking Minnow</Bait>
     </Baits>
   </Fish>
 </Rod>

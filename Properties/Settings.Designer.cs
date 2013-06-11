@@ -410,12 +410,12 @@ namespace Fishing.Properties {
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool Itemizer {
+        public bool ItemizerItemTools {
             get {
-                return ((bool)(this["Itemizer"]));
+                return ((bool)(this["ItemizerItemTools"]));
             }
             set {
-                this["Itemizer"] = value;
+                this["ItemizerItemTools"] = value;
             }
         }
         

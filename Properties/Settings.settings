@@ -98,7 +98,7 @@
     <Setting Name="ShowFishHP" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">True</Value>
     </Setting>
-    <Setting Name="Itemizer" Type="System.Boolean" Scope="User">
+    <Setting Name="ItemizerItemTools" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>
     </Setting>
     <Setting Name="MaxCatchValue" Type="System.Decimal" Scope="User">

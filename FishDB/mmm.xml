@@ -1,0 +1,38 @@
+<Rod name="MMM Fishing Rod">
+  <Fish name="Moat Carp" wanted="Yes" ID1="200" ID2="16" ID3="12">
+    <Zones>
+      <Zone>Everbloom Hollow</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Maze Monger Minnow</Bait>
+      <Bait>Large MMM Ball</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Crayfish" wanted="Yes" ID1="140" ID2="24" ID3="15">
+    <Zones>
+      <Zone>Everbloom Hollow</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Reg. MMM Ball</Bait>
+      <Bait>Large MMM Ball</Bait>
+      <Bait>Maze Monger Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Copper Frog" wanted="Yes" ID1="100" ID2="22" ID3="10">
+    <Zones>
+      <Zone>Everbloom Hollow</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Reg. MMM Ball</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Black Eel" wanted="Yes" ID1="180" ID2="24" ID3="7">
+    <Zones>
+      <Zone>Everbloom Hollow</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Reg. MMM Ball</Bait>
+      <Bait>Large MMM Ball</Bait>
+    </Baits>
+  </Fish>
+</Rod>
