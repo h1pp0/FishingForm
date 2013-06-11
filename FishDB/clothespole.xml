@@ -1,0 +1,34 @@
+<Rod name="Clothespole">
+  <Fish name="Rusty Bucket" wanted="No" ID1="40" ID2="32" ID3="13" ID4="16">
+    <Zones>
+      <Zone>Port San d'Oria</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Rusty Leggings" wanted="No" ID1="40" ID2="44" ID3="13" ID4="22">
+    <Zones>
+      <Zone>Port San d'Oria</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Giant Catfish" wanted="Yes" ID1="240" ID2="22" ID3="7" ID4="11">
+    <Zones>
+      <Zone>Port San d'Oria</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Rusty Subligar" wanted="No" ID1="40" ID2="37" ID3="13" ID4="18">
+    <Zones>
+      <Zone>Port San d'Oria</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Minnow</Bait>
+    </Baits>
+  </Fish>
+</Rod>

@@ -1,0 +1,704 @@
+<Rod name="Comp. Fishing Rod">
+  <Fish name="Devil Manta" wanted="Yes" ID1="300" ID2="19" ID3="9" ID4="13">
+    <Zones>
+      <Zone>Kuftal Tunnel</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Fly Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Arrapago Leech)" wanted="No" ID1="300" ID2="15" ID3="12" ID4="10">
+    <Zones>
+      <Zone>Arrapago Reef</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sinking Minnow</Bait>
+      <Bait>Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Chimera Clot)" wanted="No" ID1="300" ID2="16" ID3="11" ID4="11">
+    <Zones>
+      <Zone>Arrapago Reef</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sinking Minnow</Bait>
+      <Bait>Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Clipper)" wanted="No" ID1="300" ID2="15" ID3="12" ID4="10">
+    <Zones>
+      <Zone>Yhoator Jungle</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Frog Lure</Bait>
+      <Bait>Meatball</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Ferocious Pugil)" wanted="No" ID1="300" ID2="18" ID3="10" ID4="12">
+    <Zones>
+      <Zone>Jugner Forest</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Insect Ball</Bait>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Ghost Crab)" wanted="No" ID1="300" ID2="16" ID3="15" ID4="11">
+    <Zones>
+      <Zone>Manaclipper</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Crayfish Ball</Bait>
+      <Bait>Fly Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Greater Pugil)" wanted="No" ID1="300" ID2="16" ID3="11" ID4="11">
+    <Zones>
+      <Zone>Manaclipper</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Crayfish Ball</Bait>
+      <Bait>Fly Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Greater Pugil)" wanted="No" ID1="300" ID2="16" ID3="15" ID4="11">
+    <Zones>
+      <Zone>Yhoator Jungle</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Frog Lure</Bait>
+      <Bait>Meatball</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Grindylow)" wanted="No" ID1="300" ID2="15" ID3="12" ID4="10">
+    <Zones>
+      <Zone>Bibiki Bay</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Crayfish Ball</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Harajnite NM)" wanted="Yes" ID1="300" ID2="19" ID3="9" ID4="13">
+    <Zones>
+      <Zone>Manaclipper</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Crayfish Ball</Bait>
+      <Bait>Fly Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Huge Leech)" wanted="No" ID1="300" ID2="19" ID3="9" ID4="13">
+    <Zones>
+      <Zone>Jugner Forest</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Kraken)" wanted="No" ID1="300" ID2="19" ID3="9" ID4="13">
+    <Zones>
+      <Zone>Bibiki Bay</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Crayfish Ball</Bait>
+      <Bait>Worm Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Kraken)" wanted="No" ID1="300" ID2="18" ID3="10" ID4="12">
+    <Zones>
+      <Zone>Manaclipper</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Crayfish Ball</Bait>
+      <Bait>Fly Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Lahama)" wanted="No" ID1="300" ID2="18" ID3="10" ID4="12">
+    <Zones>
+      <Zone>Arrapago Reef</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sinking Minnow</Bait>
+      <Bait>Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Llamhigyn Y Dwr)" wanted="No" ID1="300" ID2="19" ID3="9" ID4="13">
+    <Zones>
+      <Zone>Arrapago Reef</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sinking Minnow</Bait>
+      <Bait>Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Ocean Crab)" wanted="No" ID1="300" ID2="15" ID3="12" ID4="10">
+    <Zones>
+      <Zone>Ship bound for Selbina</Zone>
+      <Zone>Ship bound for Selbina (Pirates)</Zone>
+      <Zone>Ship bound for Mhaura</Zone>
+      <Zone>Ship bound for Mhaura (Pirates)</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Slice of Bluetail</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Ocean Pugil)" wanted="No" ID1="300" ID2="16" ID3="11" ID4="11">
+    <Zones>
+      <Zone>Ship bound for Selbina</Zone>
+      <Zone>Ship bound for Selbina (Pirates)</Zone>
+      <Zone>Ship bound for Mhaura</Zone>
+      <Zone>Ship bound for Mhaura (Pirates)</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Slice of Bluetail</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Pirate Pugil)" wanted="No" ID1="300" ID2="18" ID3="10" ID4="12">
+    <Zones>
+      <Zone>Ship bound for Selbina</Zone>
+      <Zone>Ship bound for Selbina (Pirates)</Zone>
+      <Zone>Ship bound for Mhaura</Zone>
+      <Zone>Ship bound for Mhaura (Pirates)</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Slice of Bluetail</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Sea Monk)" wanted="Yes" ID1="300" ID2="19" ID3="9" ID4="13">
+    <Zones>
+      <Zone>Ship bound for Selbina</Zone>
+      <Zone>Ship bound for Selbina (Pirates)</Zone>
+      <Zone>Ship bound for Mhaura</Zone>
+      <Zone>Ship bound for Mhaura (Pirates)</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Slice of Bluetail</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Sea Pugil)" wanted="No" ID1="300" ID2="16" ID3="15" ID4="11">
+    <Zones>
+      <Zone>Ship bound for Selbina</Zone>
+      <Zone>Ship bound for Selbina (Pirates)</Zone>
+      <Zone>Ship bound for Mhaura</Zone>
+      <Zone>Ship bound for Mhaura (Pirates)</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Slice of Bluetail</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Spring Pugil)" wanted="No" ID1="300" ID2="15" ID3="12" ID4="10">
+    <Zones>
+      <Zone>Jugner Forest</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Insect Ball</Bait>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Stag Crab)" wanted="No" ID1="300" ID2="16" ID3="15" ID4="11">
+    <Zones>
+      <Zone>Jugner Forest</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Insect Ball</Bait>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Vepar)" wanted="No" ID1="300" ID2="16" ID3="11" ID4="11">
+    <Zones>
+      <Zone>Yhoator Jungle</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Frog Lure</Bait>
+      <Bait>Meatball</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mob (Wootzshell)" wanted="No" ID1="300" ID2="16" ID3="15" ID4="11">
+    <Zones>
+      <Zone>Arrapago Reef</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sinking Minnow</Bait>
+      <Bait>Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="1 Gil" wanted="Yes" ID1="40" ID2="22" ID3="13" ID4="15">
+    <Zones>
+      <Zone>Port Bastok</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Rusty Bucket" wanted="No" ID1="40" ID2="19" ID3="13" ID4="13">
+    <Zones>
+      <Zone>Port Bastok</Zone>
+      <Zone>Zeruhn Mines</Zone>
+      <Zone>Yuhtunga Jungle</Zone>
+      <Zone>Windurst Waters</Zone>
+      <Zone>Windurst Walls</Zone>
+      <Zone>Western Altepa Desert</Zone>
+      <Zone>West Sarutabaruta</Zone>
+      <Zone>West Ronfaure</Zone>
+      <Zone>Valkurm Dunes</Zone>
+      <Zone>South Gustaberg</Zone>
+      <Zone>Sea Serpent Grotto</Zone>
+      <Zone>Sauromugue Champaign</Zone>
+      <Zone>Rolanberry Fields</Zone>
+      <Zone>Qufim Island</Zone>
+      <Zone>Port Windurst</Zone>
+      <Zone>Port San d'Oria</Zone>
+      <Zone>Port Jeuno</Zone>
+      <Zone>Palborough Mines</Zone>
+      <Zone>Ordelle's Caves</Zone>
+      <Zone>Northern San d'Oria</Zone>
+      <Zone>North Gustaberg</Zone>
+      <Zone>Norg</Zone>
+      <Zone>Mhaura</Zone>
+      <Zone>Manaclipper</Zone>
+      <Zone>Lower Jeuno</Zone>
+      <Zone>La Theine Plateau</Zone>
+      <Zone>Korroloka Tunnel</Zone>
+      <Zone>Jugner Forest</Zone>
+      <Zone>Gusgen Mines</Zone>
+      <Zone>Giddeus</Zone>
+      <Zone>East Sarutabaruta</Zone>
+      <Zone>Davoi</Zone>
+      <Zone>Dragon's Aery</Zone>
+      <Zone>Buburimu Peninsula</Zone>
+      <Zone>The Boyahda Tree</Zone>
+      <Zone>Bibiki Bay</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Shrimp Lure</Bait>
+      <Bait>Crayfish Ball</Bait>
+      <Bait>Fly Lure</Bait>
+      <Bait>Giant Shell Bug</Bait>
+      <Bait>Frog Lure</Bait>
+      <Bait>Insect Ball</Bait>
+      <Bait>Crayfish Ball</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Rusty Cap" wanted="No" ID1="40" ID2="38" ID3="13" ID4="26">
+    <Zones>
+      <Zone>Bibiki Bay</Zone>
+      <Zone>Jugner Forest</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sabiki Rig</Bait>
+      <Bait>Insect Ball</Bait>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Rusty Leggings" wanted="No" ID1="40" ID2="26" ID3="13" ID4="18">
+    <Zones>
+      <Zone>Port Bastok</Zone>
+      <Zone>Bibiki Bay</Zone>
+      <Zone>Arrapago Reef</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Shrimp Lure</Bait>
+      <Bait>Crayfish Ball</Bait>
+      <Bait>Sabiki Rig</Bait>
+      <Bait>Worm Lure</Bait>
+      <Bait>Sinking Minnow</Bait>
+      <Bait>Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Rusty Subligar" wanted="No" ID1="40" ID2="22" ID3="13" ID4="15">
+    <Zones>
+      <Zone>Bibiki Bay</Zone>
+      <Zone>Arrapago Reef</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sabiki Rig</Bait>
+      <Bait>Shrimp Lure</Bait>
+      <Bait>Worm Lure</Bait>
+      <Bait>Sinking Minnow</Bait>
+      <Bait>Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Bastore Bream" wanted="Yes" ID1="180" ID2="31" ID3="7" ID4="21">
+    <Zones>
+      <Zone>Port Bastok</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Bastore Sardine x2" wanted="No" ID1="120" ID2="21" ID3="12" ID4="14">
+    <Zones>
+      <Zone>Bibiki Bay</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sabiki Rig</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Bastore Sardine x3" wanted="No" ID1="140" ID2="21" ID3="13" ID4="14">
+    <Zones>
+      <Zone>Bibiki Bay</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sabiki Rig</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Bhefhel Marlin" wanted="Yes" ID1="300" ID2="20" ID3="7" ID4="14">
+    <Zones>
+      <Zone>Ship bound for Mhaura</Zone>
+      <Zone>Ship bound for Mhaura (Pirates)</Zone>
+      <Zone>Ship bound for Selbina</Zone>
+      <Zone>Ship bound for Selbina (Pirates)</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Slice of Bluetail</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Blindfish" wanted="Yes" ID1="160" ID2="18" ID3="6" ID4="12">
+    <Zones>
+      <Zone>Oldton Movalpolos</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Insect Ball</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Bluetail" wanted="Yes" ID1="240" ID2="24" ID3="4" ID4="16">
+    <Zones>
+      <Zone>Ship bound for Selbina</Zone>
+      <Zone>Ship bound for Selbina (Pirates)</Zone>
+      <Zone>Ship bound for Mhaura</Zone>
+      <Zone>Ship bound for Mhaura (Pirates)</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Cobalt Jellyfish" wanted="No" ID1="20" ID2="28" ID3="13" ID4="19">
+    <Zones>
+      <Zone>Port Bastok</Zone>
+      <Zone>Batallia Downs</Zone>
+      <Zone>Bibiki Bay</Zone>
+      <Zone>Cape Teriggan</Zone>
+      <Zone>Den of Rancor</Zone>
+      <Zone>Open Sea Route to Al Zahbi</Zone>
+      <Zone>Open Sea Route to Mhaura</Zone>
+      <Zone>Kazham</Zone>
+      <Zone>Lower Jeuno</Zone>
+      <Zone>Manaclipper</Zone>
+      <Zone>Norg</Zone>
+      <Zone>Port Jeuno</Zone>
+      <Zone>Sea Serpent Grotto</Zone>
+      <Zone>Selbina</Zone>
+      <Zone>South Gustaberg</Zone>
+      <Zone>Valkurm Dunes</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Shrimp Lure</Bait>
+      <Bait>Crayfish Ball</Bait>
+      <Bait>Fly Lure</Bait>
+      <Bait>Frog Lure</Bait>
+      <Bait>Insect Ball</Bait>
+      <Bait>Little Worm</Bait>
+      <Bait>Lugworm</Bait>
+      <Bait>Meatball</Bait>
+      <Bait>Minnow</Bait>
+      <Bait>Peeled Lobster</Bait>
+      <Bait>Robber Rig</Bait>
+      <Bait>Rogue Rig</Bait>
+      <Bait>Sabiki Rig</Bait>
+      <Bait>Sardine Ball</Bait>
+      <Bait>Sinking Minnow</Bait>
+      <Bait>Slice of Bluetail</Bait>
+      <Bait>Sliced Cod</Bait>
+      <Bait>Sliced Sardine</Bait>
+      <Bait>Worm Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Cone Calamary" wanted="No" ID1="100" ID2="40" ID3="10" ID4="28">
+    <Zones>
+      <Zone>Ship bound for Selbina</Zone>
+      <Zone>Ship bound for Selbina (Pirates)</Zone>
+      <Zone>Ship bound for Mhaura</Zone>
+      <Zone>Ship bound for Mhaura (Pirates)</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Minnow</Bait>
+      <Bait>Slice of Bluetail</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Dark Bass" wanted="No" ID1="160" ID2="23" ID3="7" ID4="16">
+    <Zones>
+      <Zone>Jugner Forest</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Insect Ball</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Denizanasi" wanted="Yes" ID1="20" ID2="28" ID3="13" ID4="19">
+    <Zones>
+      <Zone>Aht Urhgan Whitegate</Zone>
+      <Zone>Mount Zhayolm</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sinking Minnow</Bait>
+      <Bait>Minnow</Bait>
+      <Bait>Little Worm</Bait>
+      <Bait>Lugworm</Bait>
+      <Bait>Rogue Rig</Bait>
+      <Bait>Robber Rig</Bait>
+      <Bait>Sabiki Rig</Bait>
+      <Bait>Shrimp Lure</Bait>
+      <Bait>Slice of Bluetail</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Elshimo Newt" wanted="Yes" ID1="180" ID2="26" ID3="5" ID4="18">
+    <Zones>
+      <Zone>Yhoator Jungle</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Frog Lure</Bait>
+      <Bait>Meatball</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Gold Carp" wanted="Yes" ID1="280" ID2="18" ID3="10" ID4="12">
+    <Zones>
+      <Zone>Jugner Forest</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Insect Ball</Bait>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Istakoz" wanted="No" ID1="60" ID2="35" ID3="4" ID4="24">
+    <Zones>
+      <Zone>Arrapago Reef</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sinking Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Jungle Catfish" wanted="No" ID1="240" ID2="26" ID3="7" ID4="18">
+    <Zones>
+      <Zone>Yhoator Jungle</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Frog Lure</Bait>
+      <Bait>Meatball</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Mercanbaligi" wanted="Yes" ID1="180" ID2="31" ID3="7" ID4="21">
+    <Zones>
+      <Zone>Arrapago Reef</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sinking Minnow</Bait>
+      <Bait>Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Moat Carp" wanted="Yes" ID1="180" ID2="16" ID3="10" ID4="11">
+    <Zones>
+      <Zone>Jugner Forest</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Insect Ball</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Moorish Idol" wanted="Yes" ID1="220" ID2="18" ID3="6" ID4="12">
+    <Zones>
+      <Zone>Bibiki Bay</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Crayfish Ball</Bait>
+      <Bait>Shrimp Lure</Bait>
+      <Bait>Worm Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Noble Lady" wanted="Yes" ID1="200" ID2="30" ID3="7" ID4="21">
+    <Zones>
+      <Zone>Ship bound for Selbina</Zone>
+      <Zone>Ship bound for Selbina (Pirates)</Zone>
+      <Zone>Ship bound for Mhaura</Zone>
+      <Zone>Ship bound for Mhaura (Pirates)</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Pamtam Kelp" wanted="No" ID1="40" ID2="24" ID3="13" ID4="16">
+    <Zones>
+      <Zone>Bibiki Bay</Zone>
+      <Zone>Manaclipper</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Crayfish Ball</Bait>
+      <Bait>Shrimp Lure</Bait>
+      <Bait>Worm Lure</Bait>
+      <Bait>Fly Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Quus" wanted="No" ID1="220" ID2="12" ID3="7" ID4="8">
+    <Zones>
+      <Zone>Bibiki Bay</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sabiki Rig</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Quus x2" wanted="No" ID1="240" ID2="12" ID3="7" ID4="8">
+    <Zones>
+      <Zone>Bibiki Bay</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sabiki Rig</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Quus x3" wanted="No" ID1="260" ID2="12" ID3="8" ID4="8">
+    <Zones>
+      <Zone>Bibiki Bay</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sabiki Rig</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Rhinochimera" wanted="Yes" ID1="300" ID2="17" ID3="7" ID4="11">
+    <Zones>
+      <Zone>Arrapago Reef</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Sinking Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Shall Shell" wanted="Yes" ID1="40" ID2="27" ID3="13" ID4="18">
+    <Zones>
+      <Zone>Bibiki Bay</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Crayfish Ball</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Silver Shark" wanted="Yes" ID1="180" ID2="35" ID3="3" ID4="21">
+    <Zones>
+      <Zone>Ship bound for Mhaura</Zone>
+      <Zone>Ship bound for Mhaura (Pirates)</Zone>
+      <Zone>Ship bound for Selbina</Zone>
+      <Zone>Ship bound for Selbina (Pirates)</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Slice of Bluetail</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Tricolored Carp" wanted="No" ID1="240" ID2="19" ID3="12" ID4="13">
+    <Zones>
+      <Zone>Jugner Forest</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Insect Ball</Bait>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Vongola Clam" wanted="Yes" ID1="80" ID2="20" ID3="8" ID4="14">
+    <Zones>
+      <Zone>Bibiki Bay</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Crayfish Ball</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Crab 1" wanted="No" ID1="300" ID2="16" ID3="15" ID4="11">
+    <Zones>
+      <Zone>Kuftal Tunnel</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Fly Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Crab 2" wanted="No" ID1="300" ID2="15" ID3="12" ID4="10">
+    <Zones>
+      <Zone>Kuftal Tunnel</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Fly Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Pugil 1" wanted="No" ID1="300" ID2="18" ID3="10" ID4="12">
+    <Zones>
+      <Zone>Kuftal Tunnel</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Fly Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Pugil 2" wanted="No" ID1="300" ID2="16" ID3="11" ID4="11">
+    <Zones>
+      <Zone>Kuftal Tunnel</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Fly Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Coral Fragment" wanted="Yes" ID1="40" ID2="47" ID3="13" ID4="32">
+    <Zones>
+      <Zone>Manaclipper</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Fly Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="a monster!" wanted="No" ID1="300" ID2="15" ID3="12" ID4="10">
+    <Zones>
+      <Zone>Manaclipper</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Fly Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Monke-Onke" wanted="Yes" ID1="180" ID2="17" ID3="12">
+    <Zones>
+      <Zone>East Sarutabaruta</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Worm Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Giant Catfish" wanted="Yes" ID1="240" ID2="13" ID3="7">
+    <Zones>
+      <Zone>Western Altepa Desert</Zone>
+      <Zone>La Theine Plateau</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Gavial Fish" wanted="Yes" ID1="300" ID2="30" ID3="15">
+    <Zones>
+      <Zone>Western Altepa Desert</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Too small fish" wanted="No" ID1="180" ID2="31" ID3="7">
+    <Zones>
+      <Zone>Port Windurst</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Minnow</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Giant Donko" wanted="Yes" ID1="160" ID2="17" ID3="15">
+    <Zones>
+      <Zone>Rabao</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Worm Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Emperor Fish" wanted="Yes" ID1="260" ID2="36" ID3="5">
+    <Zones>
+      <Zone>Beaucedine Glacier</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Trout Ball</Bait>
+      <Bait>Peeled Crayfish</Bait>
+    </Baits>
+  </Fish>
+</Rod>

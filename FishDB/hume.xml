@@ -1,0 +1,58 @@
+<Rod name="Hume Fishing Rod">
+  <Fish name="Rusty Bucket" wanted="No" ID1="60" ID2="23" ID3="15" ID4="17">
+    <Zones>
+      <Zone>Lower Jeuno</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Tiger Cod" wanted="Yes" ID1="200" ID2="28" ID3="11" ID4="21">
+    <Zones>
+      <Zone>Lower Jeuno</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Rusty Leggings" wanted="No" ID1="60" ID2="32" ID3="15" ID4="24">
+    <Zones>
+      <Zone>Lower Jeuno</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Cobalt Jellyfish" wanted="No" ID1="20" ID2="35" ID3="15" ID4="26">
+    <Zones>
+      <Zone>Lower Jeuno</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="1 Gil" wanted="Yes" ID1="60" ID2="27" ID3="15" ID4="20">
+    <Zones>
+      <Zone>Lower Jeuno</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Copper Ring" wanted="No" ID1="60" ID2="50" ID3="15" ID4="37">
+    <Zones>
+      <Zone>Lower Jeuno</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Nosteau Herring" wanted="No" ID1="180" ID2="26" ID3="9" ID4="19">
+    <Zones>
+      <Zone>Lower Jeuno</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Shrimp Lure</Bait>
+    </Baits>
+  </Fish>
+</Rod>

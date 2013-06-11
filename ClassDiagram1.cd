@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Fishing.FishingForm">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Fishing.FishingForm.FishResult" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FishingForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Delegate Name="Fishing.FishingForm.ChatLogsDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FishingForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Enum Name="Fishing.FishingForm.FishSize" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FishingForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Delegate Name="Fishing.FishingForm.IntNoParamDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FishingForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Fishing.FishingForm.VoidStrDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FishingForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Fishing.FishingForm.VoidBoolStrDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FishingForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Fishing.FishingForm.DecimalNoParamDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FishingForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Fishing.FishingForm.VoidNoParamDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FishingForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Fishing.FishingForm.VoidBoolDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FishingForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Fishing.FishingForm.VoidIntDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FishingForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>sySPZUQ7WO+4UxBA7qCGIKfCUon9IkvccrrzyROprdY=</HashCode>
+      <FileName>FishingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
