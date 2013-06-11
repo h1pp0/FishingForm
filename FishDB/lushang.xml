@@ -1530,6 +1530,7 @@
   <Fish name="Moat Carp" wanted="No" ID1="200" ID2="17" ID3="12">
     <Zones>
       <Zone>Rabao</Zone>
+	  <Zone>West Ronfaure</Zone>
     </Zones>
     <Baits>
       <Bait>Little Worm</Bait>
