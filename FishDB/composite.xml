@@ -428,9 +428,12 @@
   <Fish name="Dark Bass" wanted="No" ID1="160" ID2="23" ID3="7" ID4="16">
     <Zones>
       <Zone>Jugner Forest</Zone>
+      <Zone>Caedarva Mire</Zone>
     </Zones>
     <Baits>
       <Bait>Insect Ball</Bait>
+      <Bait>Frog Lure</Bait>
+      <Bait>Worm Lure</Bait>
     </Baits>
   </Fish>
   <Fish name="Denizanasi" wanted="Yes" ID1="20" ID2="28" ID3="13" ID4="19">
@@ -702,6 +705,30 @@
     <Baits>
       <Bait>Trout Ball</Bait>
       <Bait>Peeled Crayfish</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Yayinbaligi" wanted="No" ID1="240" ID2="13" ID3="7">
+    <Zones>
+      <Zone>Caedarva Mire</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Frog Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Too small fish" wanted="No" ID1="100" ID2="28" ID3="8">
+    <Zones>
+      <Zone>Caedarva Mire</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Frog Lure</Bait>
+    </Baits>
+  </Fish>
+  <Fish name="Black Ghost" wanted="Yes" ID1="160" ID2="36" ID3="7">
+    <Zones>
+      <Zone>Caedarva Mire</Zone>
+    </Zones>
+    <Baits>
+      <Bait>Worm Lure</Bait>
     </Baits>
   </Fish>
 </Rod>
