@@ -54,6 +54,7 @@ namespace Fishing
         /// Array holding all of the currently running "pol.exe" processes
         /// </summary>
         private static Process[] p = Process.GetProcessesByName("pol");
+        //private static Process[] p = Process.GetProcessesByName("ffxi-boot");
 
         /// <summary>
         /// POL names that are not to be included in process selection

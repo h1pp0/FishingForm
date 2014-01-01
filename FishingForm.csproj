@@ -107,6 +107,7 @@
     <Compile Include="FFACETools\enums.cs" />
     <Compile Include="FFACETools\FFACETools.cs" />
     <Compile Include="FFACETools\Fish.cs" />
+    <Compile Include="FFACETools\IEntity.cs" />
     <Compile Include="FFACETools\Imports.cs" />
     <Compile Include="FFACETools\Item.cs" />
     <Compile Include="FFACETools\Menu.cs" />
@@ -131,6 +132,8 @@
       <DependentUpon>FishingForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Fishing\FishStats.cs" />
+    <Compile Include="LoggingClass.cs" />
+    <Compile Include="Navigation.cs" />
     <Compile Include="ProcessSelector.cs">
       <SubType>Form</SubType>
     </Compile>

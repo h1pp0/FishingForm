@@ -274,7 +274,7 @@ namespace FFACETools
             } // @ public string Name
 
             /// <summary>
-            /// Player ID
+            /// Player ID as it appears from the server
             /// </summary>
             public int ID
             {
@@ -283,7 +283,7 @@ namespace FFACETools
             } // @ public short ID
 
             /// <summary>
-            /// Player server ID
+            /// ID of the server the player is on. For ServerID of the player check out <see cref="ID"/>
             /// </summary>
             public byte PlayerServerID
             {
