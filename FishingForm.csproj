@@ -224,6 +224,9 @@
     </Content>
     <Content Include="images\icon_play.png" />
     <Content Include="images\icon_stop.png" />
+    <Content Include="warning.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <None Include="images\refresh_icon.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
