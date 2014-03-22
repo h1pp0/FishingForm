@@ -174,7 +174,7 @@ namespace Fishing
             return 0;
         }
 
-        public static void WriteWaypointsFromXML(string fileName)
+        public static void WriteWaypointsToXML(string fileName)
         {
             if (WaypointListXML == null)
                 return;
