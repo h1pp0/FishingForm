@@ -82,7 +82,9 @@ namespace FFACETools
         public uint Index;
         public uint ID;
         [MarshalAs(UnmanagedType.ByValTStr, SizeConst = 24)] public String Name;
-        public float unknown001;
+        public uint unknown001;
+        public uint unknown002;
+        public uint unknown003;
         public float MovementSpeed;
         public float AnimationSpeed;
         public uint Warp;
@@ -136,7 +138,6 @@ namespace FFACETools
         public byte Flags23;
         public byte Flags24;
         public uint unknown12;
-        public int Unknown0002;
         public ushort unknown13;
         public ushort NPCSpeechLoop;
         public ushort NPCSpeechFrame;
