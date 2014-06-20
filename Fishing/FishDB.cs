@@ -308,7 +308,6 @@ namespace Fishing
             List<string> tempbaitnamesList = new List<string>();
             if (File.Exists(GetFileName(rodname)))
             {
-                //List<string> tempbaitnamesList = new List<string>();
                 XmlDocument xmlDoc = GetFishDB(rodname);
                 foreach (Fishie fishies in fishnamesCollection)
                 {
@@ -328,7 +327,6 @@ namespace Fishing
             List<string> tempbaitnamesList = new List<string>();
             if (File.Exists(GetFileName(rodname)))
             {
-                //List<string> tempbaitnamesList = new List<string>();
                 XmlDocument xmlDoc = GetFishDB(rodname);
                 XmlNodeList nodes = xmlDoc.SelectNodes(string.Format("/Rod/Fish[@name = \"{0}\"]/Baits/Bait", fishname));
 
