@@ -1,5 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.IO;
+using System.Linq;
+using System.Windows.Forms;
+using System.Windows.Forms.VisualStyles;
 using System.Xml;
 
 namespace Fishing
@@ -231,11 +234,11 @@ namespace Fishing
                         Directory.CreateDirectory(dbFolder);
                     }
 
-                    TextWriter writer = new StreamWriter(System.IO.File.Create(fishDBFile));
+                    TextWriter writer = new StreamWriter(File.Create(fishDBFile));
 
                     try
                     {
-                        writer.WriteLine(string.Format("<Rod name=\"{0}\">\n</Rod>", rod));
+                        writer.WriteLine("<Rod name=\"{0}\">\n</Rod>", rod);
                         writer.Flush();
                     }
                     finally
@@ -300,7 +303,46 @@ namespace Fishing
 
         } // @ private static void FishDBChanged(string rod)
 
+        internal static IEnumerable<string> FishBaits(string rodname, ListBox.ObjectCollection fishnamesCollection)
+        {
+            List<string> tempbaitnamesList = new List<string>();
+            if (File.Exists(GetFileName(rodname)))
+            {
+                //List<string> tempbaitnamesList = new List<string>();
+                XmlDocument xmlDoc = GetFishDB(rodname);
+                foreach (Fishie fishies in fishnamesCollection)
+                {
+                    XmlNodeList nodes =
+                        xmlDoc.SelectNodes(string.Format("/Rod/Fish[@name = \"{0}\"]/Baits/Bait", fishies.name));
+
+                    tempbaitnamesList.AddRange((from XmlNode node in nodes
+                        where node != null
+                        select node.InnerText).ToList());
+                }
+            }
+            return tempbaitnamesList;
+        }
+
+        internal static IEnumerable<string> FishBaits (string rodname, string fishname)
+        {
+            List<string> tempbaitnamesList = new List<string>();
+            if (File.Exists(GetFileName(rodname)))
+            {
+                //List<string> tempbaitnamesList = new List<string>();
+                XmlDocument xmlDoc = GetFishDB(rodname);
+                XmlNodeList nodes = xmlDoc.SelectNodes(string.Format("/Rod/Fish[@name = \"{0}\"]/Baits/Bait", fishname));
+
+                tempbaitnamesList.AddRange((from XmlNode node in nodes
+                    where node != null
+                    select node.InnerText).ToList());
+            }
+            return tempbaitnamesList;
+        }
+
         #endregion //Events_Custom
 
     } // @ internal static class FishDB
 }
+
+
+// http://msdn.microsoft.com/en-us/library/ms256086(v=vs.90).aspx

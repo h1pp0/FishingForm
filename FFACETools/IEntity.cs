@@ -83,8 +83,6 @@ namespace FFACETools
         public uint ID;
         [MarshalAs(UnmanagedType.ByValTStr, SizeConst = 24)] public String Name;
         public uint unknown001;
-        public uint unknown002;
-        public uint unknown003;
         public float MovementSpeed;
         public float AnimationSpeed;
         public uint Warp;
@@ -138,6 +136,7 @@ namespace FFACETools
         public byte Flags23;
         public byte Flags24;
         public uint unknown12;
+        public uint unknown012;
         public ushort unknown13;
         public ushort NPCSpeechLoop;
         public ushort NPCSpeechFrame;
@@ -170,6 +169,9 @@ namespace FFACETools
         public ushort AnimationStep; //guessed, but something to do with the current animation
         public ushort u48;
         public ushort u49;
+        // 0x06 seems to make player sit and stand back up.
+        // 0x0C seems to play the current emote in EmoteID.
+        byte AnimationPlay; // Starts animation playing. 
         public uint EmoteID;
         [MarshalAs(UnmanagedType.ByValArray, SizeConst = 4)] public byte[] EmoteName;
         public byte SpawnType; //0x01 PC, 0x02 NPC, 0x10 MOB, 0x0D Me
@@ -193,7 +195,8 @@ namespace FFACETools
         public ushort u64;
         [MarshalAs(UnmanagedType.ByValArray, SizeConst = 4)] public byte[] TalkAnimation;
         public ushort u65; // 5/13/13 update
-        //public uint u66;
+        public uint u66;
+        public uint u67;
         public ushort PetIndex;
         [MarshalAs(UnmanagedType.ByValArray, SizeConst = 8)] public byte[] u68;
         public float ModelSize;
